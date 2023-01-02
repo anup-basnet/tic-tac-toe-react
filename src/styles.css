@@ -79,5 +79,18 @@ ul {
 }
 
 .game-info {
-  margin-left: 20px;
+  margin-left: 40px;
+}
+
+.history-move{
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  background-color: rgb(43, 73, 100);
+  color: white;
+  font-size: 1rem;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  width: 100%;
+  text-align: left;
 }
